@@ -1,4 +1,3 @@
-
 $roleDisplayName = Read-Host -Prompt 'Provide a user friendly name of the App-Role'
 $roleDescription = Read-Host -Prompt 'Provide a brief description of the App-Role'
 $newGUID         = New-Guid
